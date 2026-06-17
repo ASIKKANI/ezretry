@@ -24,3 +24,7 @@ test_install/
 .idea/
 .project
 .pydevproject
+
+# Draft files
+sft_prep_idea.md
+
