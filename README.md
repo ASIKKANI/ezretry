@@ -16,7 +16,7 @@ A lightweight, beginner-friendly Python decorator to automatically retry failing
 
 ## Installation
 
-Install the library directly from PyPI:
+Install the library directly from PyPI: 
 
 ```bash
 pip install ezretry-asik
